@@ -1,0 +1,9 @@
+jdbcUrl = jdbc:mysql://192.168.2.134:3306/carbusiness?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull
+user = root
+password = root
+devMode = true
+
+#jdbcUrl = jdbc:mysql://localhost:3306/carbusiness?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull
+#user = root
+#password = root
+#devMode = true
